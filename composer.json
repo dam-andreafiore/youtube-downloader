@@ -1,8 +1,8 @@
 {
-    "name": "jeckman/YouTube-Downloader",
+    "name": "dam-andreafiore/youtube-downloader",
     "type": "library",
-    "description": "YouTube-Downloader",
-    "homepage": "https://github.com/jeckman/YouTube-Downloader",
+    "description": "youtube-downloader",
+    "homepage": "https://github.com/dam-andreafiore/youtube-downloader",
     "keywords": ["YouTube-Downloader", "YouTube", "Downloader"],
     "license": "GPL-2.0-or-later",
     "authors": [
@@ -17,7 +17,7 @@
         "sort-packages": true
     },
     "require": {
-        "php": "^5.6 || ^7.0",
+        "php": "^5.6 || ^7.2",
         "ext-curl": "*",
         "psr/log": "^1.1",
         "psr/container": "^1.0",
